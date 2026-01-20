@@ -1,0 +1,15 @@
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\bin\Debug\net8.0\LocalChatConsole.exe
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\bin\Debug\net8.0\LocalChatConsole.deps.json
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\bin\Debug\net8.0\LocalChatConsole.runtimeconfig.json
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\bin\Debug\net8.0\LocalChatConsole.dll
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\bin\Debug\net8.0\LocalChatConsole.pdb
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.AssemblyInfoInputs.cache
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.AssemblyInfo.cs
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.csproj.CoreCompileInputs.cache
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.sourcelink.json
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.dll
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\refint\LocalChatConsole.dll
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.pdb
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\LocalChatConsole.genruntimeconfig.cache
+C:\Users\qcoul\Documents\Quentin_Dossier\Informatique\Projet_Perso\LocalChatConsole\LocalChatConsole\obj\Debug\net8.0\ref\LocalChatConsole.dll
